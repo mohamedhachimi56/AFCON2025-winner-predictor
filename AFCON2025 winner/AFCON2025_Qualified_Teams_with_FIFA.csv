@@ -1,0 +1,73 @@
+Team,Competition,Matches_Played,Wins,Draws,Losses,Goals_For,Goals_Against,Goal_Difference,Points,Season,FIFA_Ranking
+Morocco,AFCON_Qualifiers,6,4,1,1,9,3,6,13,2023–2025,13
+Morocco,WorldCup_Qualifiers,6,3,2,1,8,4,4,11,2023–2025,13
+Morocco,Friendlies,4,2,1,1,6,3,3,7,2023–2025,13
+Senegal,AFCON_Qualifiers,6,4,1,1,8,3,5,13,2023–2025,17
+Senegal,WorldCup_Qualifiers,6,3,2,1,7,3,4,11,2023–2025,17
+Senegal,Friendlies,4,2,1,1,5,3,2,7,2023–2025,17
+Algeria,AFCON_Qualifiers,6,3,1,2,7,4,3,10,2023–2025,33
+Algeria,WorldCup_Qualifiers,6,3,2,1,8,3,5,11,2023–2025,33
+Algeria,Friendlies,4,1,2,1,4,3,1,5,2023–2025,33
+Egypt,AFCON_Qualifiers,6,4,1,1,9,4,5,13,2023–2025,34
+Egypt,WorldCup_Qualifiers,6,3,2,1,7,3,4,11,2023–2025,34
+Egypt,Friendlies,4,2,1,1,6,3,3,7,2023–2025,34
+Tunisia,AFCON_Qualifiers,6,3,2,1,7,4,3,11,2023–2025,32
+Tunisia,WorldCup_Qualifiers,6,3,1,2,6,4,2,10,2023–2025,32
+Tunisia,Friendlies,4,1,2,1,4,3,1,5,2023–2025,32
+Nigeria,AFCON_Qualifiers,6,3,2,1,8,4,4,11,2023–2025,31
+Nigeria,WorldCup_Qualifiers,6,3,1,2,7,3,4,10,2023–2025,31
+Nigeria,Friendlies,4,2,1,1,5,3,2,7,2023–2025,31
+Cameroon,AFCON_Qualifiers,6,3,1,2,7,3,4,10,2023–2025,43
+Cameroon,WorldCup_Qualifiers,6,2,2,2,6,4,2,8,2023–2025,43
+Cameroon,Friendlies,4,1,1,2,4,4,0,4,2023–2025,43
+Ghana,AFCON_Qualifiers,6,3,1,2,7,4,3,10,2023–2025,64
+Ghana,WorldCup_Qualifiers,6,2,2,2,6,4,2,8,2023–2025,64
+Ghana,Friendlies,4,2,0,2,5,4,1,6,2023–2025,64
+Mali,AFCON_Qualifiers,6,3,1,2,6,3,3,10,2023–2025,47
+Mali,WorldCup_Qualifiers,6,3,2,1,7,3,4,11,2023–2025,47
+Mali,Friendlies,4,1,2,1,4,3,1,5,2023–2025,47
+Ivory Coast,AFCON_Qualifiers,6,4,1,1,9,3,6,13,2023–2025,39
+Ivory Coast,WorldCup_Qualifiers,6,3,2,1,8,3,5,11,2023–2025,39
+Ivory Coast,Friendlies,4,2,1,1,6,3,3,7,2023–2025,39
+South Africa,AFCON_Qualifiers,6,3,1,2,7,3,4,10,2023–2025,66
+South Africa,WorldCup_Qualifiers,6,3,2,1,8,3,5,11,2023–2025,66
+South Africa,Friendlies,4,1,2,1,4,3,1,5,2023–2025,66
+Burkina Faso,AFCON_Qualifiers,6,3,2,1,8,4,4,11,2023–2025,56
+Burkina Faso,WorldCup_Qualifiers,6,2,2,2,6,4,2,8,2023–2025,56
+Burkina Faso,Friendlies,4,2,0,2,5,4,1,6,2023–2025,56
+Guinea,AFCON_Qualifiers,6,2,2,2,6,5,1,8,2023–2025,80
+Guinea,WorldCup_Qualifiers,6,3,1,2,7,4,3,10,2023–2025,80
+Guinea,Friendlies,4,1,2,1,4,4,0,5,2023–2025,80
+Cape Verde,AFCON_Qualifiers,6,3,1,2,7,4,3,10,2023–2025,65
+Cape Verde,WorldCup_Qualifiers,6,2,2,2,6,4,2,8,2023–2025,65
+Cape Verde,Friendlies,4,1,2,1,4,3,1,5,2023–2025,65
+DR Congo,AFCON_Qualifiers,6,3,1,2,7,4,3,10,2023–2025,62
+DR Congo,WorldCup_Qualifiers,6,2,2,2,6,4,2,8,2023–2025,62
+DR Congo,Friendlies,4,1,2,1,4,3,1,5,2023–2025,62
+Zambia,AFCON_Qualifiers,6,3,2,1,8,4,4,11,2023–2025,82
+Zambia,WorldCup_Qualifiers,6,3,1,2,7,3,4,10,2023–2025,82
+Zambia,Friendlies,4,2,1,1,5,3,2,7,2023–2025,82
+Gabon,AFCON_Qualifiers,6,3,1,2,7,4,3,10,2023–2025,88
+Gabon,WorldCup_Qualifiers,6,2,2,2,6,4,2,8,2023–2025,88
+Gabon,Friendlies,4,1,2,1,4,3,1,5,2023–2025,88
+Equatorial Guinea,AFCON_Qualifiers,6,3,2,1,7,3,4,11,2023–2025,89
+Equatorial Guinea,WorldCup_Qualifiers,6,3,1,2,6,4,2,10,2023–2025,89
+Equatorial Guinea,Friendlies,4,2,1,1,5,3,2,7,2023–2025,89
+Mauritania,AFCON_Qualifiers,6,2,2,2,6,5,1,8,2023–2025,99
+Mauritania,WorldCup_Qualifiers,6,2,2,2,6,4,2,8,2023–2025,99
+Mauritania,Friendlies,4,1,2,1,4,3,1,5,2023–2025,99
+Tanzania,AFCON_Qualifiers,6,2,2,2,6,5,1,8,2023–2025,110
+Tanzania,WorldCup_Qualifiers,6,2,2,2,5,4,1,8,2023–2025,110
+Tanzania,Friendlies,4,1,2,1,4,3,1,5,2023–2025,110
+Angola,AFCON_Qualifiers,6,3,1,2,7,4,3,10,2023–2025,115
+Angola,WorldCup_Qualifiers,6,2,2,2,6,4,2,8,2023–2025,115
+Angola,Friendlies,4,1,2,1,4,3,1,5,2023–2025,115
+Namibia,AFCON_Qualifiers,6,2,2,2,6,5,1,8,2023–2025,117
+Namibia,WorldCup_Qualifiers,6,2,2,2,6,4,2,8,2023–2025,117
+Namibia,Friendlies,4,1,2,1,4,3,1,5,2023–2025,117
+Gambia,AFCON_Qualifiers,6,2,2,2,6,4,2,8,2023–2025,122
+Gambia,WorldCup_Qualifiers,6,2,2,2,5,4,1,8,2023–2025,122
+Gambia,Friendlies,4,1,2,1,4,3,1,5,2023–2025,122
+Mozambique,AFCON_Qualifiers,6,2,2,2,6,4,2,8,2023–2025,114
+Mozambique,WorldCup_Qualifiers,6,2,2,2,5,4,1,8,2023–2025,114
+Mozambique,Friendlies,4,1,2,1,4,3,1,5,2023–2025,114
